@@ -105,3 +105,5 @@ Buka browser Anda dan kunjungi **http://localhost:3000** untuk mulai berinteraks
 ## Lisensi
 
 Proyek ini dilisensikan di bawah Lisensi ISC.
+
+Yuk mampir ke portofolio saya (https://wiradp.github.io/)
