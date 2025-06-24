@@ -104,6 +104,9 @@ Buka browser Anda dan kunjungi **http://localhost:3000** untuk mulai berinteraks
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah Lisensi ISC.
+📄 License
+MIT License – Feel free to use and modify with credit.
 
-Yuk mampir ke [portofolio](https://wiradp.github.io/) saya
+👤 Author
+Built with ❤️ by Wira Dhana Putra
+🧾 [Portfolio](https://wiradp.github.io) | 💼 [LinkedIn](https://www.linkedin.com/in/wira-dhana-putra/)
